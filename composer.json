@@ -29,6 +29,7 @@
     "tracy/tracy": "^2.6"
   },
   "require-dev": {
+    "wavevision/coding-standard": "^4.0"
   },
   "autoload": {
     "psr-4": {
